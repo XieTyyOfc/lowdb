@@ -1,5 +1,5 @@
 {
-  "name": "@xyzendev/lowdb",
+  "name": "@XieTyyOfc/lowdb",
   "version": "1.0.1",
   "description": "A super-fast and lightweight database for efficient data storage with minimal resource requirements.",
   "keywords": ["database", "lowdb", "data storage", "lightweight", "fast"],
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xyzendev/lowdb.git"
+    "url": "git+https://github.com/XieTyyOfc/lowdb.git"
   },
-  "author": "Muhammad Adriansyah - xyzendev",
+  "author": "XieTyyOfc",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/xyzendev/lowdb/issues"
+    "url": "https://github.com/XieTyyOfc/lowdb/issues"
   },
-  "homepage": "https://github.com/xyzendev/lowdb#readme",
+  "homepage": "https://github.com/XieTyyOfc/lowdb#readme",
   "dependencies": {
     "steno": "^1.0.0"
   },
